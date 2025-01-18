@@ -42,3 +42,9 @@ Here are the file descriptions:
 **io_handler.h:** This is the header file for functions to handle inputs and outputs with the USB ports.
 
 **lab8.sv:** This module is the top-level controller of the whole Pacman game.
+
+**usb.c:** This file contains the functions to handle data packets from the USB ports.
+
+**usb.h:** This is the header file for functions to handle data packets from the USB ports.
+
+**walldecider.sv:** This module detects if there are any walls around the Pacman.
